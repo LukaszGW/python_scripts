@@ -9,7 +9,7 @@ Scripts which use Google API and related tools. Directory contains script for go
 <h2>Senuto</h2>
 Scripts which use Senuto API (SEO tool which can be used for competition research, keyword research, domain analysis e.g.). Script senuto ranking also use google sheet api
 
-<h2>Semstorm<h2>
+<h2>Semstorm</h2>
 Scripts which use Semstorm API (other SEO tool)
 
 <h2>Other</h2>
